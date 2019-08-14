@@ -1,19 +1,19 @@
 # Bills of materials
 ## Use ProMicro
 
-|#|REF||
-|-|-|-|
+|#|REF|---|
+|-:|-|-|
 |1|D1,D2,D3,D4,D5|Diodes Inc 1N4148|
 |2|SW1,SW2,SW3,SW4,SW5|Cherry MX switch|
-|3|RST|6x3 tactile switch|
+|3|RST|6x3mm tactile switch|
 |4|TRRS|AVVICON MJ-4PP-9|
 
 ## Use ATmega32U4
 
 
 
-|#|REF|a|
-|-|-|-|
+|#|REF|---|
+|-:|-|-|
 |1|U1|Atmel ATmega32U4|
 |2|Y1|EPSON FA238-16MHz|
 |3|USB|Molex 47642-0001|
