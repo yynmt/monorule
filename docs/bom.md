@@ -10,8 +10,6 @@
 
 ## Use ATmega32U4
 
-
-
 |#|REF|---|
 |-:|-|-|
 |1|U1|Atmel ATmega32U4|
